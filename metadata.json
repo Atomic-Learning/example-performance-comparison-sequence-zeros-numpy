@@ -1,5 +1,5 @@
 {
-    "title": "Example: Performance Comparison of Creating an Array fo Zeros using NumPy",
+    "title": "Example: Performance Comparison of Creating an Array of Zeros using NumPy",
     "slug": "example-performance-comparison-sequence-zeros-numpy",
     "description": "A comparison of creating a list of zeros without using Numpy and an array of zeros using numpy.zeros().",
     "authors": [
