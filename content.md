@@ -31,7 +31,7 @@ print('NumPy zeroes:', time.time() - start_time)
 
 # Observations
 
-The NumPy Version should run a lot faster, by a factor of around X.
+The NumPy Version should run a lot faster, by a factor of around 10.
 
 ## Why is NumPy Faster?
 
