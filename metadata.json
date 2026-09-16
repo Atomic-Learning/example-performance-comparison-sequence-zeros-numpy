@@ -19,5 +19,8 @@
     ],
     "related": [
         "python-multiplying-lists"
+    ],
+    "python_packages":[
+        "numpy"
     ]
 }
