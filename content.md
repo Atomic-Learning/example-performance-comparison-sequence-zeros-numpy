@@ -35,4 +35,4 @@ The NumPy Version should run a lot faster, by a factor of around 10.
 
 ## Why is NumPy Faster?
 
-NumPy's array creation functions like `np.zeros()` and `np.arange()` are implemented in optimised compiled code, not in Python. This allows them to create large arrays much faster than native Python list operations. 
+NumPy's array creation functions like `np.zeros()` and `np.arange()` are implemented in highly efficient and optimised compiled C code, which is faster than the Python interpreter.
