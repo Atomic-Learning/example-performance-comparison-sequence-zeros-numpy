@@ -1,5 +1,3 @@
-# NumPy: Performance of Sequence Creation
-
 Creating large sequences is a common task in data processing. This page compares the time taken to create sequences of equal length using native Python versus NumPy. In each case we will create the sequence a large number of times so we can measure the performance more accurately.
 
 # Native Python
