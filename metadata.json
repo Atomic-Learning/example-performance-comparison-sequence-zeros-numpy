@@ -18,7 +18,8 @@
         "python-range-in-for-loops"
     ],
     "related": [
-        "python-multiplying-lists"
+        "python-multiplying-lists",
+        "example-performance-comparison-ascending-sequence-numpy"
     ],
     "python_packages":[
         "numpy"
