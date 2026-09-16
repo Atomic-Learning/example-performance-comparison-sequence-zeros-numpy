@@ -6,7 +6,6 @@ The following code creates a list of zeros in Python. If you're not familiar wit
 
 ```py-cell
 import time
-import numpy as np
 
 repetitions = 1000
 
@@ -21,6 +20,9 @@ print('Non-NumPy zeroes:', time.time() - start_time)
 The following code creates an array of zeros using NumPy. 
 
 ```py-cell
+import time
+import numpy as np
+
 start_time = time.time()
 for i in range(repetitions):
   a = np.zeros(100000)
