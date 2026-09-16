@@ -1,22 +1,23 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Example: Performance Comparison of Creating an Array fo Zeros using NumPy",
+    "slug": "example-performance-comparison-sequence-zeros-numpy",
+    "description": "A comparison of creating a list of zeros without using Numpy and an array of zeros using numpy.zeros().",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "numpy"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "numpy-zeros",
+        "programming-profiling-time-variability",
+        "python-measuring-elapsed-time-with-time-function",
+        "python-range-in-for-loops"
     ],
     "related": [
-        "",
-        ""
+        "python-multiplying_lists"
     ]
 }
