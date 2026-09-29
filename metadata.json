@@ -15,7 +15,8 @@
         "numpy-zeros",
         "programming-profiling-time-variability",
         "python-measuring-elapsed-time-with-time-function",
-        "python-range-in-for-loops"
+        "python-range-in-for-loops",
+        "python-collection-multiplication"
     ],
     "related": [
         "python-multiplying-lists",

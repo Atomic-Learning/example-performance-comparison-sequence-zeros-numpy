@@ -2,7 +2,7 @@ Creating large sequences is a common task in data processing. This page compares
 
 # Native Python
 
-The following code creates a list of zeros in Python. If you're not familiar with the exact syntax used don't worry - the important feature is that it is an efficient way to create a large sequence of zeros.
+The following code creates a list of zeros in Python by multiplying a single-element list containing zero by the desired length of the sequence.
 
 ```py-cell
 import time
